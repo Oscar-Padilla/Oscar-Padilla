@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi 👋 I'm Oscar
 
-<!--
-**Oscar-Padilla/Oscar-Padilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer and system administrator based in Aguascalientes, Mexico.
+I build and maintain web applications for union organizations and
+healthcare institutions.
 
-Here are some ideas to get you started:
+🔧 **Stack:** PHP · MySQL · JavaScript · React · Vite · Tailwind
+🚀 **Deploy:** Hostinger · XAMPP for local development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on:**
+- Personnel records management systems
+- QR-based access control
+- Institutional portals and admin modules
+- Report exports (PDF / Excel), RBAC, REST APIs
+
+I like practical, low-friction solutions that solve the real problem
+for the people who'll actually use them.
