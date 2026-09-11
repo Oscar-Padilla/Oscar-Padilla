@@ -4,7 +4,7 @@ Developer and system administrator based in Aguascalientes, Mexico.
 I build and maintain web applications for union organizations and
 healthcare institutions.
 
-🔧 **Stack:** PHP · MySQL · JavaScript · React · Vite · Tailwind
+🔧 **Stack:** PHP · MySQL · JavaScript · React · Vite · Tailwind · Supabase  
 🚀 **Deploy:** Hostinger · XAMPP for local development
 
 **What I work on:**
